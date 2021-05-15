@@ -1,6 +1,6 @@
 # Alle Nederlandse adressen en bijbehorende postcodes
 
-![Adressen](https://img.shields.io/badge/adressen-9.277.205-brightgreen) ![Laatste update](https://img.shields.io/badge/laatste%20update-08--05--2021-brightgreen)
+![Adressen](https://img.shields.io/badge/adressen-9.270.524-brightgreen) ![Laatste update](https://img.shields.io/badge/laatste%20update-15--05--2021-brightgreen)
 
 <a href="https://www.buymeacoffee.com/Lars-" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -25,7 +25,7 @@ In deze repository vind je alle data die je nodig kan hebben voor het omzetten v
 
 Alles is ingepakt in .7z bestanden om ruimte te besparen.
 
-- adressen.7z (706.6MB uitgepakt): dit archief bevat een CSV bestand met daarin van alle adressen de volgende
+- adressen.7z (706.1MB uitgepakt): dit archief bevat een CSV bestand met daarin van alle adressen de volgende
   gegevens:
   - Straatnaam
   - Huisnummer
@@ -35,7 +35,7 @@ Alles is ingepakt in .7z bestanden om ruimte te besparen.
   - Provincienaam
   - Latitude
   - Longitude
-- provincies.7z (706.6MB uitgepakt): dit archief bevat CSV bestanden van alle adressen, gesplitst per
+- provincies.7z (706.1MB uitgepakt): dit archief bevat CSV bestanden van alle adressen, gesplitst per
   provincie.
 
 Het CSV bestand kan geïmporteerd worden in PhpMyAdmin (o.i.d.) om het vervolgens in je applicatie te gebruiken.
